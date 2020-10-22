@@ -1,0 +1,51 @@
+[
+    {
+        "dish_id": "1",
+        "dish_name": "samosa",
+        "raw_price": "5",
+        "total_price": "10",
+        "profit": "5"
+    },
+    {
+        "dish_id": "2",
+        "dish_name": "dosa",
+        "raw_price": "10",
+        "total_price": "20",
+        "profit": "10"
+    },
+    {
+        "dish_id": "3",
+        "dish_name": "coffeee",
+        "raw_price": "4",
+        "total_price": "10",
+        "profit": "6"
+    },
+    {
+        "dish_id": "8",
+        "dish_name": "misal",
+        "raw_price": "10",
+        "total_price": "30",
+        "profit": "20"
+    },
+    {
+        "dish_id": "9",
+        "dish_name": "tea",
+        "raw_price": "3",
+        "total_price": "7",
+        "profit": "4"
+    },
+    {
+        "dish_id": "10",
+        "dish_name": "cold coffee",
+        "raw_price": "10",
+        "total_price": "30",
+        "profit": "20"
+    },
+    {
+        "dish_id": "11",
+        "dish_name": "paestry",
+        "raw_price": "10",
+        "total_price": "35",
+        "profit": "25"
+    }
+]
