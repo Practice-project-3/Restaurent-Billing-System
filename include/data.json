@@ -1,0 +1,65 @@
+[
+    {
+        "cust_id": "1",
+        "cust_id1": "1",
+        "cust_name": "Siddhi Mankar",
+        "email": "siddhi@gmail.com",
+        "password": "Siddhi12",
+        "user_role": "admin",
+        "log_in": "online"
+    },
+    {
+        "cust_id": "2",
+        "cust_id1": "2",
+        "cust_name": "vaishnavi Saindane",
+        "email": "vaishnavi@gmail.com",
+        "password": "Vaishnavi12",
+        "user_role": "admin",
+        "log_in": ""
+    },
+    {
+        "cust_id": "3",
+        "cust_id1": "3",
+        "cust_name": "Janhavi Sonawane",
+        "email": "janhavi123@gmail.com",
+        "password": "Janhavi@123",
+        "user_role": "admin",
+        "log_in": ""
+    },
+    {
+        "cust_id": "4",
+        "cust_id1": "4",
+        "cust_name": "Harry Potter",
+        "email": "harry@gmail.com",
+        "password": "Harry@123",
+        "user_role": "user",
+        "log_in": "online"
+    },
+    {
+        "cust_id": "5",
+        "cust_id1": "5",
+        "cust_name": "Hermionie Granger",
+        "email": "Hermionie@gmail.com",
+        "password": "Hermionie@1",
+        "user_role": "user",
+        "log_in": ""
+    },
+    {
+        "cust_id": "9",
+        "cust_id1": "9",
+        "cust_name": "Aishwarya ria",
+        "email": "Aishwarya@gmail.com",
+        "password": "Aishwarya@1",
+        "user_role": "user",
+        "log_in": ""
+    },
+    {
+        "cust_id": "10",
+        "cust_id1": "0",
+        "cust_name": "Siddhi D Mankar",
+        "email": "sid@gmail.com",
+        "password": "Sid@1234567",
+        "user_role": "admin",
+        "log_in": "online"
+    }
+]

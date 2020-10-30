@@ -1,0 +1,79 @@
+[
+    {
+        "dish_id": "1",
+        "dish_name": "samosa",
+        "raw_price": "5",
+        "total_price": "10",
+        "profit": "5"
+    },
+    {
+        "dish_id": "2",
+        "dish_name": "dosa",
+        "raw_price": "10",
+        "total_price": "20",
+        "profit": "10"
+    },
+    {
+        "dish_id": "3",
+        "dish_name": "Dhokale",
+        "raw_price": "15",
+        "total_price": "30",
+        "profit": "15"
+    },
+    {
+        "dish_id": "4",
+        "dish_name": "Cake pestry",
+        "raw_price": "10",
+        "total_price": "20",
+        "profit": "10"
+    },
+    {
+        "dish_id": "5",
+        "dish_name": "Pani Puri",
+        "raw_price": "5",
+        "total_price": "10",
+        "profit": "5"
+    },
+    {
+        "dish_id": "6",
+        "dish_name": "Bhel Puri",
+        "raw_price": "15",
+        "total_price": "20",
+        "profit": "5"
+    },
+    {
+        "dish_id": "8",
+        "dish_name": "Burger",
+        "raw_price": "20",
+        "total_price": "30",
+        "profit": "10"
+    },
+    {
+        "dish_id": "9",
+        "dish_name": "Pizza",
+        "raw_price": "30",
+        "total_price": "60",
+        "profit": "30"
+    },
+    {
+        "dish_id": "10",
+        "dish_name": "Gulab Jam",
+        "raw_price": "15",
+        "total_price": "20",
+        "profit": "5"
+    },
+    {
+        "dish_id": "11",
+        "dish_name": "Vada Pav",
+        "raw_price": "5",
+        "total_price": "12",
+        "profit": "7"
+    },
+    {
+        "dish_id": "12",
+        "dish_name": "Vada Pav",
+        "raw_price": "5",
+        "total_price": "12",
+        "profit": "7"
+    }
+]
